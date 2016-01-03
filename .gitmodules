@@ -9,4 +9,4 @@
 	url = https://github.com/cppformat/cppformat
 [submodule "deps/coro"]
 	path = deps/coro
-	url = https://github.com/ramonza/libcoro
+	url = https://github.com/cinabaar/libcoro
