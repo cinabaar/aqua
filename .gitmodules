@@ -1,0 +1,12 @@
+[submodule "deps/glew"]
+	path = deps/glew
+	url = https://github.com/Perlmint/glew-cmake
+[submodule "deps/glfw"]
+	path = deps/glfw
+	url = https://github.com/glfw/glfw
+[submodule "deps/cppformat"]
+	path = deps/cppformat
+	url = https://github.com/cppformat/cppformat
+[submodule "deps/coro"]
+	path = deps/coro
+	url = https://github.com/ramonza/libcoro
